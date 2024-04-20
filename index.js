@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["GORA ETA MILITARRA💙","Antiraid | +300 Servers😈"];
+const statusMessages = ["GORA ETA MILITARRA💙","Antiraid | +300 Servers😈","Protection anti DDoS🔒];
 
 
 let currentIndex = 0;
