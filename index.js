@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["$help","+300 Servers😈"];
+const statusMessages = ["``$help``","``+300 Servers😈``"];
 
 
 let currentIndex = 0;
