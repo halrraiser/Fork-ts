@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["GORA ETA MILITARRA💙","Antiraid | +300 Servers😈","Protection anti DDoS🔒","-1 ms reaction time☠️"];
+const statusMessages = ["$help","+300 Servers😈"];
 
 
 let currentIndex = 0;
