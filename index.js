@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["$help","+300 Servers😈","skript.gg"];
+const statusMessages = ["CALVOOOO","Calveando...😈","skript.gg😉"];
 
 
 let currentIndex = 0;
