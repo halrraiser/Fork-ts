@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["CALVOOOO","Calveando...😈","skript.gg😉"];
+const statusMessages = ["🩵Calvo・Giveaway","🐌","🩵"];
 
 
 let currentIndex = 0;
